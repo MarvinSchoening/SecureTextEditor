@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d627e98d-9162-482c-98a3-f32a02148a4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/crypto/CryptoManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/crypto/CryptoManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/crypto/NISTKnownAnswerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/crypto/NISTKnownAnswerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/crypto/UtilityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/crypto/UtilityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/editor/TextFileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/editor/TextFileTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="12" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PX91QAcmF2qLThjoMs6VL4dqyA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/Dokumente/Arbeit/nivio" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35632184" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="crypto.symmetric" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.test">
+    <configuration name="EditorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="editor.EditorApp" />
+      <module name="ste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="editor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="javafx:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.EditorApp" />
+      <item itemvalue="Maven.run" />
+      <item itemvalue="Maven.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EditorApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d627e98d-9162-482c-98a3-f32a02148a4a" name="Default Changelist" comment="" />
+      <created>1566009358879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566009358879</updated>
+      <workItem from="1566009363490" duration="32000" />
+      <workItem from="1566091712108" duration="877000" />
+      <workItem from="1566209896658" duration="37000" />
+      <workItem from="1566210574587" duration="251000" />
+      <workItem from="1566215777020" duration="1557000" />
+      <workItem from="1566217401005" duration="182000" />
+      <workItem from="1566217612431" duration="218000" />
+      <workItem from="1566217882180" duration="443000" />
+      <workItem from="1566218612198" duration="279000" />
+      <workItem from="1566218975827" duration="575000" />
+      <workItem from="1566219572623" duration="9228000" />
+      <workItem from="1566231520245" duration="2934000" />
+      <workItem from="1566236579207" duration="1213000" />
+      <workItem from="1566306019660" duration="4649000" />
+      <workItem from="1566335773723" duration="907000" />
+      <workItem from="1583267797772" duration="203000" />
+      <workItem from="1583759363539" duration="334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1040" y="501" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583267818873">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1040" y="501" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/-1680.301.1680.1010@0.0.2560.1400" timestamp="1583267818873" />
+    <state x="1090" y="335" key="FileChooserDialogImpl" timestamp="1583759694016">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1090" y="335" key="FileChooserDialogImpl/0.0.2560.1400/-1680.301.1680.1010@0.0.2560.1400" timestamp="1583759694016" />
+    <state x="976" y="522" key="com.intellij.ide.util.TipDialog" timestamp="1583759404746">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="522" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1680.301.1680.1010@0.0.2560.1400" timestamp="1583759404746" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35632184" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35632184" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35632184" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35632184" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ste</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35632184" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.openjfx:javafx-graphics:12.0.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35632184" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
